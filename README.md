@@ -1,4 +1,3 @@
-# .github
 
 ## Sistem Informasi Perusahaan (SIP)  👋
 
