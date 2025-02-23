@@ -1,7 +1,7 @@
 
-## Sistem Informasi Perusahaan (SIP)  👋
+## SPP ITENAS - Event Manajemen (EeMan): Manage Your Event Seemlees 👋
 
-## SPP ITENAS
+## KEL02
 
 ## 🙋‍ Teams :
 
@@ -13,8 +13,8 @@
 
 ## 🧙 Mentors :
 
-- Mr Kurnia Ramadhan
-- Mr Asep Rizal
+- Mr Kurnia Ramadhan Putra S.Kom.,M.T
+- Mr Asep Rizal Nurjaman S.Kom.,M.Kom
 
 ## 🍿Description :
 
