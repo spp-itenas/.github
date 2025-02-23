@@ -13,11 +13,12 @@
 
 ## 🧙 Mentors :
 
-Undefenied
+- Mr Kurnia Ramadhan
+- Mr Asep Rizal
 
 ## 🍿Description :
 
-This project aim for redesign the old company profile of SPP Itenas, and create a platform that can handle scheduling feature (mvp) and creating content management system for the company profile itself
+This project aim for redesign the old company profile of SPP Itenas, and create a platform that can manage the event that will helded by ITENAS aslo creating content management system for the company profile itself
 
 ## Repositories
 
