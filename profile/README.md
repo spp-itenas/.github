@@ -26,10 +26,6 @@ This project aim for redesign the old company profile of SPP Itenas, and create 
 
 - [spp-core](https://github.com/spp-itenas/spp-core)
 
-### Web Company Profile
+### SPP Web (Company Profile & Dashboard)
 
-- [spp-static](https://github.com/spp-itenas/spp-static)
-
-### SPP Dashboard
-
-- [spp-dashboard](https://github.com/spp-itenas/spp-dashboard)
+- [spp-dashboard](https://github.com/spp-itenas/spp-web)
